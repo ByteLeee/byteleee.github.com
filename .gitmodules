@@ -1,0 +1,15 @@
+[submodule "themes/meme"]
+	path = themes/meme
+	url = https://github.com/reuixiy/hugo-theme-meme.git
+[submodule "themes/pure"]
+	path = themes/pure
+	url = https://github.com/xiaoheiAh/hugo-theme-pure
+[submodule "themes/maupassant"]
+	path = themes/maupassant
+	url = https://github.com/flysnow-org/maupassant-hugo
+[submodule "themes/coder-portfolio"]
+	path = themes/coder-portfolio
+	url = https://github.com/naro143/hugo-coder-portfolio
+[submodule "hyde"]
+	path = hyde
+	url = https://github.com/spf13/hyde.git
