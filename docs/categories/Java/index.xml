@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on 江月何时初照人</title>
+    <link>https://byteleee.github.io/categories/Java/</link>
+    <description>Recent content in Java on 江月何时初照人</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 11 Jan 2020 17:01:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://byteleee.github.io/categories/Java/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stream入门</title>
+      <link>https://byteleee.github.io/post/Stream/</link>
+      <pubDate>Sat, 11 Jan 2020 17:01:19 +0800</pubDate>
+      
+      <guid>https://byteleee.github.io/post/Stream/</guid>
+      <description>Stream [toc] 0. 前置知识点 函数式接口 lambda表达式和方法引用传递 1. 概述 Stream API提供一种”函数式风格的、声明式的“处理数据集合的方式，使用Stream API，可以使得集合处理更加易读（声明式的特征），甚至更加高效（内置的并发处理的特性）。 2.命令式和函数式极简对比 对1到n(n&amp;gt;1)</description>
+    </item>
+    
+    <item>
+      <title>Java lambda表达式入门</title>
+      <link>https://byteleee.github.io/2019/12/18/golang-gin-query-parameters-array-map.html</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>https://byteleee.github.io/2019/12/18/golang-gin-query-parameters-array-map.html</guid>
+      <description>什么是lambda表达式 看看lambda表达式在其他语言中怎么使用的： 在python中有lambda表达式，在python中可以使用它定义匿名方法，并赋值给一个变量，然后那个变量就成为了一个方法，比如 f = lambda x: (x + 1 ) if x &amp;gt; 100 else x - 1 # 相当于 def f(x): return (x + 1 ) if x &amp;gt; 100 else x - 1; 或者把la</description>
+    </item>
+    
+  </channel>
+</rss>

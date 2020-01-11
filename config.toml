@@ -3,7 +3,7 @@ languageCode = "zh-CN"
 title = "江月何时初照人"
 theme = "maupassant"
 googleAnalytics = ""  # UA-XXXXXXXX-X
-publishDir = docs
+publishDir = "docs"
 ## 保持分类的原始名字（false会做转小写处理）
 preserveTaxonomyNames = true
 ## 是否禁止URL Path转小写
