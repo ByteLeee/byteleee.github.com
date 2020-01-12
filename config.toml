@@ -3,7 +3,7 @@ languageCode = "zh-CN"
 title = "江月何时初照人"
 theme = "maupassant"
 googleAnalytics = ""  # UA-XXXXXXXX-X
-publishDir = "docs"
+publishDir = "/Users/dalianmao./code/github/byteleee.github.io"
 ## 保持分类的原始名字（false会做转小写处理）
 preserveTaxonomyNames = true
 ## 是否禁止URL Path转小写
@@ -11,15 +11,15 @@ disablePathToLower = true
 
 hasCJKLanguage = true
 summaryLength = 140
-
 disqusShortname = "yourdiscussshortname"  ## 是否开启disqus评论，不要和utteranc同时开启
 
 [author]
   name = "李字节"
-
+[Params]
+  math = true
 [params]
   author = "李字节"
-  subtitle = "..."
+  subtitle = "逝者如斯夫 不舍昼夜"
   keywords = "java,java语言笔记,java,博客,服务端开发,python,数据结构,算法,学习笔记"
   description = "学习&&沉淀"
   busuanzi = true #启用不算子网页统计
@@ -74,6 +74,7 @@ disqusShortname = "yourdiscussshortname"  ## 是否开启disqus评论，不要�
   [markup.highlight]
     lineNos = true
     style = "github"
+
 
 ## 配置网站菜单
 

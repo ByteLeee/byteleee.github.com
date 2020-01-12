@@ -30,12 +30,13 @@ sumN 0 = 0
 sumN x = x + sumN (x-1)
 ```
 再看一下函数式的解决方法脱离语法，是不是接近以下的函数定义：
-```math 
+$$
 f(x) = \begin{cases} 
-0 &\text{if } (x \leq 0) \\ 
+0 &\text{if } (x \leq 0) 
+\\
 x + f( x-1 ) &\text{if } (x >0) 
 \end{cases} 
-``` 
+$$
 
 函数式的定义在描述问题，命令式则是在描述一步一步解决问题。
 ## 3.Unix管道和流处理
