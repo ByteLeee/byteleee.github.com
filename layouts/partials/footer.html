@@ -10,7 +10,6 @@
         {{ end }}
     </div>
 </footer>
-
 {{ if .IsPage }}
 <!-- graphviz -->
 {{- if and (or .Params.graphviz.enable (and .Site.Params.graphviz.enable (ne .Params.graphviz.enable false))) (or .IsPage .IsHome) -}}
